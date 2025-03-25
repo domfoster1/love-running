@@ -1,3 +1,8 @@
+/*Google fonts import*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400&family=Oswald:wght@200..700&display=swap');
+
+
+
 /* Asterisk wildcard selector to override default styles in the browser*/
 * {
     padding: 0;
