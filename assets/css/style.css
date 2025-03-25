@@ -60,6 +60,20 @@ header a {
 .active {
     border-bottom: solid #3a3a3a;
 }
+
+/*Nav Bar Styles with dropdown*/
+
+nav {
+    position:absolute;
+    background-color: #FFFFFF;
+    width: 100%;
+    padding: 0 1rem;
+    left: 0;
+    box-shadow: 0 2px 2px #3a3a3a;
+    display: none;
+}
+
+
 /*Main content*/
 main {
     background-color: lightblue;
