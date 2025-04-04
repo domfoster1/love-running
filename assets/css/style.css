@@ -374,9 +374,10 @@ main {
 
     #signup-form {
         max-width: 400px;
+        position: absolute center;
         top: 150px;
         left: 10%;
-        position: absolute;
+        
     }
 
     .join-button:hover {
